@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.zip
+*.db
+*.log
+.uploads/
